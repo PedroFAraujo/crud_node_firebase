@@ -1,2 +1,6 @@
-# crud_node_firebase
-Repositório acadêmico referente ao componente Técnicas Avançadas de Programação Web Mobile
+# node-firebase
+npm install express
+npm install express-handlebars
+npm install body-parser
+npm install firebase
+npm install firebase-admin
